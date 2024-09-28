@@ -1,0 +1,51 @@
+services:
+  app:
+    container_name: docker-node-mysql
+    build: .
+    ports:
+      - "8080:3000"
+    volumes:
+      - ../var/log/app:/var/log/app
+    links:
+      - mysql-dev
+    depends_on:
+      - mysql-dev
+    restart: always
+    command: npm start
+
+  mysql-dev:
+    container_name: mysql-container
+    image: mysql:8.0.2
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: node_crud
+    ports:
+      - "3306:3306"
+    volumes:
+      - ../var/log/mysql:/var/log/mysql
+
+  fluent-bit:
+    image: fluent/fluent-bit:latest
+    container_name: fluent-bit
+    ports:
+      - "24224:24224"
+    volumes:
+      - ./fluent-bit.conf:/fluent-bit/etc/fluent-bit.conf
+      - ../var/log/app:/var/log/app
+      - ../var/log/mysql:/var/log/mysql
+    restart: always
+    depends_on:
+      - influxdb
+
+  influxdb:
+    image: influxdb:2.0
+    container_name: influxdb
+    ports:
+      - "8086:8086"
+    environment:
+      INFLUXDB_DB: logs # Create a database named "logs"
+      INFLUXDB_USER: username # Set a username for InfluxDB
+      INFLUXDB_USER_PASSWORD: password # Set a password for the user
+
+volumes:
+  influxdb_data:

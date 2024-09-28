@@ -1,0 +1,173 @@
+{"level":"info","message":"Connected to MySQL database.","timestamp":"2024-09-28T11:00:29.474Z"}
+{"level":"info","message":"Server started on port 3000 | 8080 if running on Docker.","timestamp":"2024-09-28T11:00:29.481Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T11:07:54.774Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T11:08:06.466Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T11:08:15.652Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T11:08:24.141Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T11:10:50.841Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T11:11:04.840Z"}
+{"level":"info","message":"Connected to MySQL database.","timestamp":"2024-09-28T11:11:14.169Z"}
+{"level":"info","message":"Server started on port 3000 | 8080 if running on Docker.","timestamp":"2024-09-28T11:11:14.180Z"}
+{"level":"error","message":"Cannot connect with database: getaddrinfo ENOTFOUND mysql-dev","timestamp":"2024-09-28T11:32:15.455Z"}
+{"level":"error","message":"Cannot connect with database: getaddrinfo ENOTFOUND mysql-dev","timestamp":"2024-09-28T11:32:29.674Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T11:32:39.963Z"}
+{"level":"info","message":"Connected to MySQL database.","timestamp":"2024-09-28T11:32:45.593Z"}
+{"level":"info","message":"Server started on port 3000 | 8080 if running on Docker.","timestamp":"2024-09-28T11:32:45.604Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T12:09:32.610Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T12:09:42.090Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T12:09:51.267Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T12:10:00.002Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T12:10:07.711Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T12:10:14.896Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T12:10:23.215Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T12:10:34.565Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T12:10:50.831Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T12:11:21.370Z"}
+{"level":"info","message":"Connected to MySQL database.","timestamp":"2024-09-28T12:12:15.159Z"}
+{"level":"info","message":"Server started on port 3000 | 8080 if running on Docker.","timestamp":"2024-09-28T12:12:15.166Z"}
+{"level":"info","message":"Event added: event","timestamp":"2024-09-28T14:52:37.240Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T14:59:25.149Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.4:3306","timestamp":"2024-09-28T15:00:22.029Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.4:3306","timestamp":"2024-09-28T15:00:30.613Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.4:3306","timestamp":"2024-09-28T15:00:39.101Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.4:3306","timestamp":"2024-09-28T15:00:47.569Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.4:3306","timestamp":"2024-09-28T15:00:56.314Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.4:3306","timestamp":"2024-09-28T15:01:04.574Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.4:3306","timestamp":"2024-09-28T15:01:12.834Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.4:3306","timestamp":"2024-09-28T15:01:23.250Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.4:3306","timestamp":"2024-09-28T15:01:39.704Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.4:3306","timestamp":"2024-09-28T15:02:09.065Z"}
+{"level":"info","message":"Connected to MySQL database.","timestamp":"2024-09-28T15:03:03.059Z"}
+{"level":"info","message":"Server started on port 3000 | 8080 if running on Docker.","timestamp":"2024-09-28T15:03:03.065Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:03:54.165Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:04:02.592Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:04:12.284Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:04:21.750Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:04:31.319Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:04:41.660Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:04:54.301Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:05:06.480Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:05:24.474Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:06:03.868Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:06:10.490Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:06:17.138Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:06:24.551Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:06:31.494Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:06:37.255Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:06:44.532Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:06:54.908Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:07:12.481Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:07:42.466Z"}
+{"level":"info","message":"Connected to MySQL database.","timestamp":"2024-09-28T15:08:36.769Z"}
+{"level":"info","message":"Server started on port 3000 | 8080 if running on Docker.","timestamp":"2024-09-28T15:08:36.775Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:09:45.935Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:09:52.516Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:09:59.564Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:10:06.785Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:10:13.428Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:10:18.650Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:10:25.363Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:10:35.402Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:10:51.444Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:11:47.476Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:11:55.940Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:12:05.003Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:12:12.945Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:12:20.239Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:12:27.956Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:12:36.259Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:12:47.831Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:13:05.099Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:13:35.297Z"}
+{"level":"info","message":"Connected to MySQL database.","timestamp":"2024-09-28T15:14:30.345Z"}
+{"level":"info","message":"Server started on port 3000 | 8080 if running on Docker.","timestamp":"2024-09-28T15:14:30.353Z"}
+{"level":"info","message":"Event added: event","timestamp":"2024-09-28T15:18:13.626Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T15:22:31.713Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:23:55.610Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:24:02.460Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:24:09.870Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:24:16.898Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:24:23.447Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:24:29.454Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:24:36.183Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:24:46.686Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:25:02.740Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:25:31.570Z"}
+{"level":"info","message":"Connected to MySQL database.","timestamp":"2024-09-28T15:26:25.753Z"}
+{"level":"info","message":"Server started on port 3000 | 8080 if running on Docker.","timestamp":"2024-09-28T15:26:25.760Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:28:42.341Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:28:49.396Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:28:56.752Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:29:04.380Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:29:15.196Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:29:21.327Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:29:28.447Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:29:38.707Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:29:55.435Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:30:24.577Z"}
+{"level":"info","message":"Connected to MySQL database.","timestamp":"2024-09-28T15:31:19.068Z"}
+{"level":"info","message":"Server started on port 3000 | 8080 if running on Docker.","timestamp":"2024-09-28T15:31:19.077Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:48:40.549Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:48:46.811Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:48:53.777Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:49:01.031Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:49:07.615Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:49:13.077Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:49:19.598Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:49:30.064Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T15:49:46.727Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:50:44.985Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:50:53.237Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:51:02.222Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:51:09.811Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:51:15.925Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:51:22.095Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:51:28.881Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:51:39.507Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:51:56.864Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.2:3306","timestamp":"2024-09-28T15:52:27.856Z"}
+{"level":"info","message":"Connected to MySQL database.","timestamp":"2024-09-28T15:53:22.008Z"}
+{"level":"info","message":"Server started on port 3000 | 8080 if running on Docker.","timestamp":"2024-09-28T15:53:22.014Z"}
+{"level":"info","message":"Event added: event","timestamp":"2024-09-28T15:54:32.537Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T15:55:51.953Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T16:01:34.898Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T16:02:01.673Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T16:05:59.708Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T16:07:49.625Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T16:08:27.900Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T16:13:15.845Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T16:18:48.155Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T16:20:50.374Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T17:01:11.271Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T17:13:58.652Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T17:22:44.148Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T17:23:11.532Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T17:23:55.946Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T17:25:08.982Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T17:25:30.466Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T17:26:14.674Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T17:28:26.217Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T18:09:56.407Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T18:46:32.765Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T18:46:39.314Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T18:46:47.050Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T18:46:55.080Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T18:47:02.173Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T18:47:07.764Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T18:47:14.415Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T18:47:24.370Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T18:47:40.707Z"}
+{"level":"error","message":"Cannot connect with database: connect ECONNREFUSED 172.18.0.3:3306","timestamp":"2024-09-28T18:48:10.363Z"}
+{"level":"info","message":"Connected to MySQL database.","timestamp":"2024-09-28T18:49:04.034Z"}
+{"level":"info","message":"Server started on port 3000 | 8080 if running on Docker.","timestamp":"2024-09-28T18:49:04.043Z"}
+{"level":"info","message":"Event added: event","timestamp":"2024-09-28T18:57:51.689Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T18:59:15.648Z"}
+{"level":"info","message":"Event updated: event","timestamp":"2024-09-28T18:59:45.856Z"}
+{"host":"127.0.0.1","level":"info","message":"Successfully fetched events","request":"GET /","status":200,"time":"2024-09-28T19:08:48.122Z","timestamp":"2024-09-28T19:08:48.123Z"}
+{"host":"127.0.0.1","level":"info","message":"Successfully fetched events","request":"GET /","status":200,"time":"2024-09-28T19:09:22.591Z","timestamp":"2024-09-28T19:09:22.591Z"}
+{"host":"127.0.0.1","level":"info","message":"Add event page rendered","request":"GET /event/add","status":200,"time":"2024-09-28T19:10:54.455Z","timestamp":"2024-09-28T19:10:54.516Z"}
+{"host":"127.0.0.1","level":"info","message":"Event added: event","request":"POST /event/add","status":200,"time":"2024-09-28T19:11:29.810Z","timestamp":"2024-09-28T19:11:29.810Z"}
+{"host":"127.0.0.1","level":"info","message":"Successfully fetched events","request":"GET /","status":200,"time":"2024-09-28T19:11:29.886Z","timestamp":"2024-09-28T19:11:29.886Z"}
+{"host":"127.0.0.1","level":"info","message":"Successfully fetched events","request":"GET /","status":200,"time":"2024-09-28T20:05:21.505Z","timestamp":"2024-09-28T20:05:21.506Z"}
+{"host":"127.0.0.1","level":"info","message":"Successfully fetched events","request":"GET /","status":200,"time":"2024-09-28T20:09:14.182Z","timestamp":"2024-09-28T20:09:14.182Z"}
+{"host":"127.0.0.1","level":"info","message":"Successfully fetched events","request":"GET /","status":200,"time":"2024-09-28T20:14:39.152Z","timestamp":"2024-09-28T20:14:39.153Z"}
