@@ -1,0 +1,30 @@
+services:
+  app:
+    image: tjain598/logger-hackathon:latest
+    container_name: logger
+    logging:
+      driver: "json-file"
+
+  fluent-bit:
+    image: fluent/fluent-bit:latest
+    container_name: fluent-bit
+    restart: always
+    depends_on:
+      - influxdb
+      - app
+    ports:
+      - "2020:2020"
+    volumes:
+      - ./fluent-bit.conf:/fluent-bit/etc/fluent-bit.conf
+      - /var/lib/docker/containers:/var/lib/docker/containers:ro
+
+  influxdb:
+    image: influxdb:2.0
+    container_name: influxdb
+    ports:
+      - "8086:8086"
+    environment:
+      INFLUXDB_DB: logs # Create a database named "logs"
+      INFLUXDB_USER: username # Set a username for InfluxDB
+      INFLUXDB_USER_PASSWORD: password # Set a password for the user
+
